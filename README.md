@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditi Ambasta</h1>
 <h3 align="center">A passionate ML and Fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditiambasta13" alt="aditiambasta13" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **ML, MERN**
