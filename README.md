@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditi Ambasta</h1>
 <h3 align="center">A passionate ML and Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+About Me 🌟
 
-- 💬 Ask me about **ML, MERN**
+- 🧠 Passionate about exploring the frontiers of Artificial Intelligence & Machine Learning
+- 🤖 Currently diving deep into Neural Networks and Computer Vision
+- 💡 Love working on projects that combine ML with real-world applications
+- 🌱 Always learning and experimenting with new technologies
+- 🎯 Goal: Contributing to breakthrough AI research while building practical solutions
 
 - 📫 How to reach me **aditiambasta2004@gmail.com**
 
