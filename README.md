@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/38ca38ae-9d1b-49a0-9ff0-96f0ca4aeed2)
+
 <h1 align="center">Hi 👋, I'm Aditi Ambasta</h1>
 <h3 align="center">A passionate ML and Fullstack developer from India</h3>
 
